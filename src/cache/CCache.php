@@ -33,8 +33,6 @@ class CCache {
             if(!result) {
                 throw new Exception("Failed to create {$dir}");
             }
-
-            adwawdkbjad
         }
     }
 
