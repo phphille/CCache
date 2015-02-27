@@ -28,9 +28,9 @@ class CCache {
         );
 
         if(!is_dir($dir)){
-            $result = mkdir($dir, 0777, true);
+            $res = mkdir($dir, 0777, true);
 
-            if(!$result) {
+            if(!$res) {
                 throw new Exception("Failed to create {$dir}");
             }
         }
