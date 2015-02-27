@@ -30,7 +30,7 @@ class CCache {
         if(!is_dir($dir)){
             $result = mkdir($dir, 0777, true);
 
-            if(!result) {
+            if(!$result) {
                 throw new Exception("Failed to create {$dir}");
             }
         }
