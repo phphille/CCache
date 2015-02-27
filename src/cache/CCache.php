@@ -34,6 +34,7 @@ class CCache {
                 throw new Exception("Failed to create {$dir}");
             }
         }
+
     }
 
     /**
