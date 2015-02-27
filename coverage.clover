@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1425045585">
-  <project timestamp="1425045585">
+<coverage generated="1425046999">
+  <project timestamp="1425046999">
     <file name="/Applications/MAMP/htdocs/composer-moduler/ccache/autoloader.php">
       <line num="18" type="stmt" count="1"/>
       <line num="21" type="stmt" count="1"/>

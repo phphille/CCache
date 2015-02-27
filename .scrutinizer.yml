@@ -16,3 +16,4 @@ tools:
 
     # Some Metrics + Bug Detection/Auto-Fixes
     php_analyzer: true
+
