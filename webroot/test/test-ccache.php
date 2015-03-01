@@ -30,3 +30,4 @@ $cache->PruneAll();
 <h1>Get file cached content</h1>
 <?=$cache->Get('file')?>
 
+
