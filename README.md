@@ -29,3 +29,8 @@ Then can you, depenending where in the code you want to reach CLog, reach the cl
 $app->cache->Put('file', 'hello'); 
 or
 $this->di->cache->Put('file', 'hello');
+
+
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/phphille/CCache/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/phphille/CCache/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/phphille/CCache/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/phphille/CCache/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/phphille/CCache/badges/build.png?b=master)](https://scrutinizer-ci.com/g/phphille/CCache/build-status/master)
