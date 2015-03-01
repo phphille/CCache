@@ -21,7 +21,7 @@ You can also prune an item with $cache->Prune('nameOfFile'); or prune all items 
 Make it apart of $Di like:
 
 $di->setShared('cache', function() {
-   $cache = new \phpe\cache\CCache('/Applications/MAMP/htdocs/mvcphp/kmom05/Anax-MVC-master/app/content/cache');
+   $cache = new \phpe\cache\CCache('path to dir');
    return $cache;
 });
 
